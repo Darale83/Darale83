@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 38 years -old Argentinian Full-Stack Web Developer who loves music and technology. I recently got my certification from Henry academy where I was part of a very intensive bootcamp that made me discover the passion for programming. I want to share with you this new-found passion. Welcome! 
+I'm a 39 years -old Argentinian Full-Stack Web Developer who loves music and technology. I recently got my certification from Henry academy where I was part of a very intensive bootcamp that made me discover the passion for programming. I want to share with you this new-found passion. Welcome! 
 
 
 ## 🌐 Socials:
